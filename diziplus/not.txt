@@ -1,0 +1,15 @@
+container: kapsayıcı
+toggle:geçiş
+featured content:öne çıkan içerik
+
+
+z-index: aynı katmnada bulunan kutucuklardan ön planda olmasının sayısını diğerinden büyük tut
+justify-content:
+   space-between: Öğeleri konteyner içinde eşit mesafelerle hizalar.
+   space-around: Öğeleri konteyner içinde eşit mesafelerle hizalar, öğelerin etrafında da birer mesafe bırakır.
+
+column-gap:esnek öğeler arasındaki boşluğu ayarlamak için kullanılmaktadır.
+
+align-items:baseline:taban çizgisi
+|>kapsamı içinde metnin taban çizgilerine göre ayarlanmasını sağlar.
+
